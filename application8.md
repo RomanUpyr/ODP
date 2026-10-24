@@ -5,8 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th rowspan="2">Перегоны</th>
-      <th colspan="30">Варианты</th>
+      <th rowspan="2">Перегоны / Варианты</th>
     </tr>
     <tr>
       <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
