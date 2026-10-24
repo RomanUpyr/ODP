@@ -9,96 +9,96 @@
       <th colspan="30">Варианты</th>
     </tr>
     <tr>
-      <th>16</th><th>17</th><th>18</th><th>19</th><th>20</th><th>21</th><th>22</th><th>23</th><th>24</th><th>25</th>
-      <th>26</th><th>27</th><th>28</th><th>29</th><th>30</th>
       <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
       <th>11</th><th>12</th><th>13</th><th>14</th><th>15</th>
+      <th>16</th><th>17</th><th>18</th><th>19</th><th>20</th><th>21</th><th>22</th><th>23</th><th>24</th><th>25</th>
+      <th>26</th><th>27</th><th>28</th><th>29</th><th>30</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td>15</td><td>23</td><td>20</td><td>15</td><td>16</td><td>12</td><td>13</td><td>15</td><td>18</td><td>17</td>
-      <td>11</td><td>20</td><td>13</td><td>25</td><td>18</td>
-      <td>12</td><td>21</td><td>13</td><td>21</td><td>21</td><td>24</td><td>22</td><td>17</td><td>23</td><td>12</td>
-      <td>22</td><td>14</td><td>17</td><td>13</td><td>18</td>
+      <td>17/15</td><td>22/23</td><td>25/22</td><td>21/20</td><td>14/16</td><td>10/12</td><td>13/15</td><td>15/19</td><td>18/16</td><td>17/16</td>
+      <td>11/12</td><td>20/18</td><td>13/12</td><td>25/22</td><td>18/20</td>
+      <td>12/12</td><td>21/21</td><td>13/15</td><td>21/21</td><td>21/18</td><td>15/24</td><td>25/22</td><td>17/24</td><td>23/10</td><td>12/22</td>
+      <td>23/14</td><td>14/17</td><td>14/13</td><td>15/18</td><td>15/12</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>13</td><td>12</td><td>15</td><td>21</td><td>19</td><td>13</td><td>16</td><td>11</td><td>19</td><td>17</td>
-      <td>11</td><td>18</td><td>15</td><td>20</td><td>18</td>
-      <td>14</td><td>19</td><td>17</td><td>10</td><td>24</td><td>14</td><td>22</td><td>15</td><td>20</td><td>20</td>
-      <td>14</td><td>20</td><td>19</td><td>24</td><td>10</td>
+      <td>23/24</td><td>12/13</td><td>15/12</td><td>21/23</td><td>19/15</td><td>13/12</td><td>16/15</td><td>11/15</td><td>19/15</td><td>17/17</td>
+      <td>11/10</td><td>18/18</td><td>15/12</td><td>20/22</td><td>18/16</td>
+      <td>14/16</td><td>19/17</td><td>15/10</td><td>12/24</td><td>25/14</td><td>16/22</td><td>23/15</td><td>18/20</td><td>22/20</td><td>19/14</td>
+      <td>16/20</td><td>19/19</td><td>19/24</td><td>24/10</td><td>12/14</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>13</td><td>24</td><td>15</td><td>22</td><td>11</td><td>13</td><td>13</td><td>16</td><td>24</td><td>25</td>
-      <td>18</td><td>13</td><td>18</td><td>25</td><td>22</td>
-      <td>24</td><td>10</td><td>21</td><td>12</td><td>19</td><td>13</td><td>18</td><td>15</td><td>17</td><td>24</td>
-      <td>20</td><td>14</td><td>18</td><td>18</td><td>25</td>
+      <td>15/12</td><td>13/15</td><td>24/25</td><td>15/15</td><td>22/23</td><td>11/11</td><td>13/13</td><td>13/10</td><td>16/18</td><td>24/25</td>
+      <td>25/22</td><td>18/22</td><td>13/15</td><td>18/16</td><td>25/22</td>
+      <td>24/25</td><td>10/12</td><td>21/21</td><td>12/13</td><td>19/14</td><td>13/17</td><td>18/22</td><td>15/13</td><td>17/17</td><td>24/25</td>
+      <td>20/19</td><td>14/16</td><td>18/15</td><td>18/20</td><td>25/22</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>13</td><td>22</td><td>15</td><td>14</td><td>13</td><td>14</td><td>16</td><td>19</td><td>20</td><td>21</td>
-      <td>16</td><td>15</td><td>14</td><td>20</td><td>15</td>
-      <td>21</td><td>25</td><td>10</td><td>16</td><td>13</td><td>14</td><td>17</td><td>22</td><td>12</td><td>17</td>
-      <td>24</td><td>24</td><td>13</td><td>22</td><td>19</td>
+      <td>13/14</td><td>22/20</td><td>15/17</td><td>14/13</td><td>13/15</td><td>14/12</td><td>16/17</td><td>19/17</td><td>20/19</td><td>21/20</td>
+      <td>16/14</td><td>15/15</td><td>14/14</td><td>20/20</td><td>15/14</td>
+      <td>21/21</td><td>25/22</td><td>10/12</td><td>16/16</td><td>13/15</td><td>14/13</td><td>17/17</td><td>22/23</td><td>12/13</td><td>17/15</td>
+      <td>24/24</td><td>24/25</td><td>13/15</td><td>22/23</td><td>19/19</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>13</td><td>18</td><td>25</td><td>12</td><td>24</td><td>13</td><td>18</td><td>12</td><td>21</td><td>20</td>
-      <td>24</td><td>20</td><td>22</td><td>11</td><td>13</td>
-      <td>25</td><td>13</td><td>17</td><td>19</td><td>14</td><td>22</td><td>19</td><td>12</td><td>21</td><td>12</td>
-      <td>25</td><td>18</td><td>21</td><td>13</td><td>24</td>
+      <td>13/15</td><td>18/16</td><td>25/22</td><td>12/13</td><td>24/25</td><td>13/10</td><td>18/20</td><td>12/12</td><td>21/21</td><td>20/19</td>
+      <td>24/25</td><td>20/19</td><td>22/23</td><td>11/11</td><td>13/15</td>
+      <td>25/22</td><td>13/15</td><td>17/17</td><td>19/19</td><td>14/16</td><td>22/23</td><td>19/19</td><td>12/12</td><td>21/21</td><td>12/12</td>
+      <td>25/22</td><td>18/20</td><td>21/21</td><td>13/15</td><td>24/24</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>12</td><td>21</td><td>12</td><td>25</td><td>18</td><td>18</td><td>15</td><td>18</td><td>15</td><td>18</td>
-      <td>18</td><td>15</td><td>13</td><td>13</td><td>16</td>
-      <td>17</td><td>20</td><td>24</td><td>20</td><td>22</td><td>11</td><td>13</td><td>19</td><td>19</td><td>25</td>
-      <td>10</td><td>22</td><td>24</td><td>15</td><td>20</td>
+      <td>12/12</td><td>21/21</td><td>12/12</td><td>25/22</td><td>18/20</td><td>18/18</td><td>15/12</td><td>18/15</td><td>15/15</td><td>18/18</td>
+      <td>15/12</td><td>13/15</td><td>13/10</td><td>16/18</td><td>22/23</td>
+      <td>17/17</td><td>20/19</td><td>24/25</td><td>20/19</td><td>22/23</td><td>11/11</td><td>13/15</td><td>19/19</td><td>19/18</td><td>25/22</td>
+      <td>10/12</td><td>22/23</td><td>24/25</td><td>15/18</td><td>20/22</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>22</td><td>15</td><td>18</td><td>10</td><td>18</td><td>13</td><td>13</td><td>16</td><td>22</td><td>15</td>
-      <td>18</td><td>18</td><td>16</td><td>18</td><td>12</td>
-      <td>13</td><td>16</td><td>24</td><td>25</td><td>18</td><td>18</td><td>22</td><td>23</td><td>18</td><td>14</td>
-      <td>25</td><td>24</td><td>10</td><td>10</td><td>24</td>
+      <td>22/23</td><td>15/15</td><td>18/20</td><td>10/10</td><td>18/15</td><td>13/15</td><td>13/10</td><td>16/18</td><td>22/23</td><td>15/15</td>
+      <td>18/15</td><td>18/16</td><td>18/18</td><td>12/13</td><td>15/15</td>
+      <td>13/10</td><td>16/18</td><td>24/25</td><td>25/22</td><td>18/22</td><td>18/15</td><td>22/23</td><td>19/19</td><td>18/15</td><td>14/16</td>
+      <td>25/22</td><td>24/25</td><td>10/12</td><td>10/12</td><td>24/25</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>18</td><td>18</td><td>18</td><td>13</td><td>13</td><td>24</td><td>20</td><td>22</td><td>11</td><td>13</td>
-      <td>13</td><td>14</td><td>18</td><td>24</td><td>18</td>
-      <td>19</td><td>24</td><td>10</td><td>17</td><td>25</td><td>13</td><td>25</td><td>13</td><td>18</td><td>12</td>
-      <td>21</td><td>20</td><td>25</td><td>22</td><td>17</td>
+      <td>18/16</td><td>18/20</td><td>18/18</td><td>13/14</td><td>13/15</td><td>24/25</td><td>20/19</td><td>22/23</td><td>11/11</td><td>13/15</td>
+      <td>13/14</td><td>18/21</td><td>24/25</td><td>25/22</td><td>18/22</td>
+      <td>19/19</td><td>24/25</td><td>10/12</td><td>17/17</td><td>25/22</td><td>13/15</td><td>25/22</td><td>13/10</td><td>18/20</td><td>12/12</td>
+      <td>21/21</td><td>20/19</td><td>25/22</td><td>22/23</td><td>17/17</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>14</td><td>10</td><td>13</td><td>15</td><td>18</td><td>18</td><td>13</td><td>18</td><td>25</td><td>18</td>
-      <td>18</td><td>15</td><td>12</td><td>18</td><td>13</td>
-      <td>13</td><td>10</td><td>15</td><td>20</td><td>24</td><td>20</td><td>17</td><td>14</td><td>24</td><td>20</td>
-      <td>14</td><td>13</td><td>17</td><td>25</td><td>10</td>
+      <td>14/16</td><td>10/12</td><td>13/15</td><td>15/19</td><td>18/16</td><td>18/21</td><td>13/15</td><td>18/14</td><td>25/22</td><td>18/20</td>
+      <td>18/15</td><td>12/13</td><td>18/21</td><td>13/14</td><td>15/12</td>
+      <td>13/15</td><td>10/12</td><td>15/18</td><td>20/22</td><td>24/25</td><td>20/19</td><td>17/17</td><td>14/16</td><td>24/25</td><td>20/19</td>
+      <td>14/16</td><td>13/15</td><td>17/17</td><td>25/22</td><td>10/12</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>25</td><td>18</td><td>22</td><td>18</td><td>15</td><td>18</td><td>25</td><td>18</td><td>18</td><td>13</td>
-      <td>13</td><td>10</td><td>16</td><td>15</td><td>18</td>
-      <td>14</td><td>19</td><td>14</td><td>18</td><td>20</td><td>24</td><td>20</td><td>13</td><td>20</td><td>20</td>
-      <td>20</td><td>19</td><td>24</td><td>19</td><td>13</td>
+      <td>25/22</td><td>18/20</td><td>22/23</td><td>18/21</td><td>15/15</td><td>18/14</td><td>25/22</td><td>18/21</td><td>18/16</td><td>13/15</td>
+      <td>13/10</td><td>16/18</td><td>15/15</td><td>18/18</td><td>18/15</td>
+      <td>14/16</td><td>19/19</td><td>14/16</td><td>18/15</td><td>20/19</td><td>24/25</td><td>20/20</td><td>13/15</td><td>20/19</td><td>20/22</td>
+      <td>20/19</td><td>19/19</td><td>24/25</td><td>19/19</td><td>13/15</td>
     </tr>
     <tr>
       <td>Б-Е(IV)</td>
-      <td>15</td><td>18</td><td>25</td><td>18</td><td>18</td><td>13</td><td>15</td><td>12</td><td>10</td><td>13</td>
-      <td>14</td><td>16</td><td>10</td><td>13</td><td>15</td>
-      <td>24</td><td>18</td><td>13</td><td>20</td><td>17</td><td>22</td><td>10</td><td>10</td><td>12</td><td>21</td>
-      <td>12</td><td>25</td><td>18</td><td>10</td><td>14</td>
+      <td>15/12</td><td>18/18</td><td>25/22</td><td>18/15</td><td>18/20</td><td>13/15</td><td>15/12</td><td>10/10</td><td>13/14</td><td>13/15</td>
+      <td>14/16</td><td>10/12</td><td>13/15</td><td>15/19</td><td>18/16</td>
+      <td>24/24</td><td>18/15</td><td>13/15</td><td>20/19</td><td>17/17</td><td>22/23</td><td>10/12</td><td>10/12</td><td>12/12</td><td>21/21</td>
+      <td>12/12</td><td>25/22</td><td>18/20</td><td>10/12</td><td>14/16</td>
     </tr>
     <tr>
       <td>В-Г(III) (I) Д-А</td>
-      <td>18</td><td>22</td><td>18</td><td>13</td><td>10</td><td>15</td><td>13</td><td>18</td><td>12</td><td>18</td>
-      <td>18</td><td>15</td><td>10</td><td>22</td><td>13</td>
-      <td>13</td><td>24</td><td>25</td><td>22</td><td>14</td><td>18</td><td>13</td><td>19</td><td>20</td><td>17</td>
-      <td>10</td><td>20</td><td>22</td><td>18</td><td>24</td>
+      <td>18/16</td><td>22/23</td><td>18/20</td><td>13/15</td><td>10/10</td><td>15/15</td><td>13/14</td><td>18/15</td><td>12/13</td><td>18/20</td>
+      <td>18/18</td><td>15/15</td><td>10/10</td><td>22/23</td><td>13/15</td>
+      <td>13/15</td><td>24/25</td><td>25/22</td><td>22/23</td><td>14/16</td><td>18/15</td><td>13/15</td><td>19/19</td><td>20/16</td><td>17/17</td>
+      <td>10/12</td><td>20/19</td><td>22/23</td><td>18/15</td><td>24/24</td>
     </tr>
   </tbody>
 </table>
