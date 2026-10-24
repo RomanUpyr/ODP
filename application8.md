@@ -1,0 +1,104 @@
+# Приложение 8
+
+## Перегонные времена хода грузовых поездов на двухпутном участке
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Перегоны</th>
+      <th colspan="30">Варианты</th>
+    </tr>
+    <tr>
+      <th>16</th><th>17</th><th>18</th><th>19</th><th>20</th><th>21</th><th>22</th><th>23</th><th>24</th><th>25</th>
+      <th>26</th><th>27</th><th>28</th><th>29</th><th>30</th>
+      <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
+      <th>11</th><th>12</th><th>13</th><th>14</th><th>15</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td><td>23</td><td>20</td><td>15</td><td>16</td><td>12</td><td>13</td><td>15</td><td>18</td><td>17</td>
+      <td>11</td><td>20</td><td>13</td><td>25</td><td>18</td>
+      <td>12</td><td>21</td><td>13</td><td>21</td><td>21</td><td>24</td><td>22</td><td>17</td><td>23</td><td>12</td>
+      <td>22</td><td>14</td><td>17</td><td>13</td><td>18</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>13</td><td>12</td><td>15</td><td>21</td><td>19</td><td>13</td><td>16</td><td>11</td><td>19</td><td>17</td>
+      <td>11</td><td>18</td><td>15</td><td>20</td><td>18</td>
+      <td>14</td><td>19</td><td>17</td><td>10</td><td>24</td><td>14</td><td>22</td><td>15</td><td>20</td><td>20</td>
+      <td>14</td><td>20</td><td>19</td><td>24</td><td>10</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>13</td><td>24</td><td>15</td><td>22</td><td>11</td><td>13</td><td>13</td><td>16</td><td>24</td><td>25</td>
+      <td>18</td><td>13</td><td>18</td><td>25</td><td>22</td>
+      <td>24</td><td>10</td><td>21</td><td>12</td><td>19</td><td>13</td><td>18</td><td>15</td><td>17</td><td>24</td>
+      <td>20</td><td>14</td><td>18</td><td>18</td><td>25</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>13</td><td>22</td><td>15</td><td>14</td><td>13</td><td>14</td><td>16</td><td>19</td><td>20</td><td>21</td>
+      <td>16</td><td>15</td><td>14</td><td>20</td><td>15</td>
+      <td>21</td><td>25</td><td>10</td><td>16</td><td>13</td><td>14</td><td>17</td><td>22</td><td>12</td><td>17</td>
+      <td>24</td><td>24</td><td>13</td><td>22</td><td>19</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>13</td><td>18</td><td>25</td><td>12</td><td>24</td><td>13</td><td>18</td><td>12</td><td>21</td><td>20</td>
+      <td>24</td><td>20</td><td>22</td><td>11</td><td>13</td>
+      <td>25</td><td>13</td><td>17</td><td>19</td><td>14</td><td>22</td><td>19</td><td>12</td><td>21</td><td>12</td>
+      <td>25</td><td>18</td><td>21</td><td>13</td><td>24</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>12</td><td>21</td><td>12</td><td>25</td><td>18</td><td>18</td><td>15</td><td>18</td><td>15</td><td>18</td>
+      <td>18</td><td>15</td><td>13</td><td>13</td><td>16</td>
+      <td>17</td><td>20</td><td>24</td><td>20</td><td>22</td><td>11</td><td>13</td><td>19</td><td>19</td><td>25</td>
+      <td>10</td><td>22</td><td>24</td><td>15</td><td>20</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>22</td><td>15</td><td>18</td><td>10</td><td>18</td><td>13</td><td>13</td><td>16</td><td>22</td><td>15</td>
+      <td>18</td><td>18</td><td>16</td><td>18</td><td>12</td>
+      <td>13</td><td>16</td><td>24</td><td>25</td><td>18</td><td>18</td><td>22</td><td>23</td><td>18</td><td>14</td>
+      <td>25</td><td>24</td><td>10</td><td>10</td><td>24</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>18</td><td>18</td><td>18</td><td>13</td><td>13</td><td>24</td><td>20</td><td>22</td><td>11</td><td>13</td>
+      <td>13</td><td>14</td><td>18</td><td>24</td><td>18</td>
+      <td>19</td><td>24</td><td>10</td><td>17</td><td>25</td><td>13</td><td>25</td><td>13</td><td>18</td><td>12</td>
+      <td>21</td><td>20</td><td>25</td><td>22</td><td>17</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>14</td><td>10</td><td>13</td><td>15</td><td>18</td><td>18</td><td>13</td><td>18</td><td>25</td><td>18</td>
+      <td>18</td><td>15</td><td>12</td><td>18</td><td>13</td>
+      <td>13</td><td>10</td><td>15</td><td>20</td><td>24</td><td>20</td><td>17</td><td>14</td><td>24</td><td>20</td>
+      <td>14</td><td>13</td><td>17</td><td>25</td><td>10</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>25</td><td>18</td><td>22</td><td>18</td><td>15</td><td>18</td><td>25</td><td>18</td><td>18</td><td>13</td>
+      <td>13</td><td>10</td><td>16</td><td>15</td><td>18</td>
+      <td>14</td><td>19</td><td>14</td><td>18</td><td>20</td><td>24</td><td>20</td><td>13</td><td>20</td><td>20</td>
+      <td>20</td><td>19</td><td>24</td><td>19</td><td>13</td>
+    </tr>
+    <tr>
+      <td>Б-Е(IV)</td>
+      <td>15</td><td>18</td><td>25</td><td>18</td><td>18</td><td>13</td><td>15</td><td>12</td><td>10</td><td>13</td>
+      <td>14</td><td>16</td><td>10</td><td>13</td><td>15</td>
+      <td>24</td><td>18</td><td>13</td><td>20</td><td>17</td><td>22</td><td>10</td><td>10</td><td>12</td><td>21</td>
+      <td>12</td><td>25</td><td>18</td><td>10</td><td>14</td>
+    </tr>
+    <tr>
+      <td>В-Г(III) (I) Д-А</td>
+      <td>18</td><td>22</td><td>18</td><td>13</td><td>10</td><td>15</td><td>13</td><td>18</td><td>12</td><td>18</td>
+      <td>18</td><td>15</td><td>10</td><td>22</td><td>13</td>
+      <td>13</td><td>24</td><td>25</td><td>22</td><td>14</td><td>18</td><td>13</td><td>19</td><td>20</td><td>17</td>
+      <td>10</td><td>20</td><td>22</td><td>18</td><td>24</td>
+    </tr>
+  </tbody>
+</table>
